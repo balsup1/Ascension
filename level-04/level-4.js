@@ -2,4 +2,4 @@ function ourFunc(string) {
     return string
 }
 
-ourFunc("This is our input")
+console.log(ourFunc("This is our input"))
